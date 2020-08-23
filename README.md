@@ -6,6 +6,8 @@
 
 ## Equations
 
+
+
 Distance: $\sqrt{(x_1 - x_2)^2 + (y_1 - y_2)^2}$
 
 Midpoint: $(\frac{\left(x_{1}+x_{2}\right)}{2},\frac{\left(y_{1}+y_{2}\right)}{2})$
@@ -30,8 +32,6 @@ $i^4 = 1$
 
 ### Powers of imaginary numbers
 
-<!--8/22/20-->
-
 Divide the exponent by four, the decimal corresponds to the value of `i`
 
 $0.25 = i$
@@ -46,8 +46,6 @@ $1 = -i$
 
 ### Multiplying complex numbers
 
-<!--8/22/20-->
-
 **Equation:** $11i * ( -8 + 10i )$
 
 **Step 1:** $11i * -8 = -88i$
@@ -59,8 +57,6 @@ $1 = -i$
 
 
 ### Classifying numbers
-
-<!--8/22/20-->
 
 Real: `18.53`, `10`, `3/2`
 
@@ -74,8 +70,6 @@ Complex: `13.32`, `10`, `-4`, `3i-1`
 
 ### Complex plane
 
-<!--8/22/20-->
-
 Plot as if `Im` is the `Y` axis and `Re` is the `X` axis
 
 `Y` axis is imaginary, `X` axis is real
@@ -84,15 +78,11 @@ Plot as if `Im` is the `Y` axis and `Re` is the `X` axis
 
 ### Addition and subtraction
 
-<!--8/22/20-->
-
 Add and subtract as if `i` is a variable
 
 
 
 ### Distance of complex numbers
-
-<!--8/22/20-->
 
 `Y` is imaginary, `X` is real
 
@@ -101,8 +91,6 @@ Distance formula: $\sqrt{(x_1 - x_2)^2 + (y_1 - y_2)^2}$
 
 
 ### Midpoint of complex numbers
-
-<!--8/22/20-->
 
 `Y` is imaginary, `X` is real
 
