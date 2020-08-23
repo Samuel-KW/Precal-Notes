@@ -50,11 +50,11 @@ $1 = -i$
 
 **Real:** `18.53`, `10`, `3/2`
 
-**Imaginary: ** `infinity`, `10i`, `-4i + 2`
+**Imaginary:** `infinity`, `10i`, `-4i + 2`
 
 **Complex:** `13.32`, `10`, `-4`, `3i-1`
 
-​	**NOT:** `i`
+​    **NOT:** `i`
 
 
 
