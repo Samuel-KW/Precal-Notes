@@ -18,6 +18,8 @@ Difference of Squares: $(a+b)(a-b) = a^2-b^2$
 
 ## Imaginary Numbers 
 
+$a+bi$
+
 
 
 $i^1 = i$
@@ -108,11 +110,21 @@ Multiply as if `i` is a variable, box method or FOIL
 
 Conjugates:
 
-​	$(7-5i) = (7+5i)$
+​	$\bar{z_1} = ( 7 - 5i )$
 
-​	$(7+5i) = (7-5i)$
-
-
+​	$z_1 = ( 7 + 5i )$
 
 Difference of Squares: $(a+b)(a-b) = a^2-b^2$
+
+
+
+### Dividing complex numbers
+
+Problem: $\frac{6+3i}{7-5i}$
+
+Multiply equation by the complex conjugate of the denominator
+
+​	 $\frac{6+3i}{7-5i}\cdot\frac{7+5i}{7+5i}=\frac{42+30i+21i-15}{49+25}=\frac{27+51i}{74}$
+
+​	==$=\frac{27}{74}+\frac{51}{74}i$==
 
