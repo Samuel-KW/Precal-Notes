@@ -1,5 +1,19 @@
 # Math
 
+<!-- Pre-calculus notes by Samuel Walls, 8/22/2020 -->
+
+
+
+## Equations
+
+Distance: $\sqrt{(x_1 - x_2)^2 + (y_1 - y_2)^2}$
+
+Midpoint: $(\frac{\left(x_{1}+x_{2}\right)}{2},\frac{\left(y_{1}+y_{2}\right)}{2})$
+
+Difference of Squares: $(a+b)(a-b) = a^2-b^2$
+
+
+
 ## Imaginary Numbers 
 
 
@@ -48,13 +62,13 @@ $1 = -i$
 
 <!--8/22/20-->
 
-**Real:** `18.53`, `10`, `3/2`
+Real: `18.53`, `10`, `3/2`
 
-**Imaginary:** `infinity`, `10i`, `-4i + 2`
+Imaginary: `infinity`, `10i`, `-4i + 2`
 
-**Complex:** `13.32`, `10`, `-4`, `3i-1`
+Complex: `13.32`, `10`, `-4`, `3i-1`
 
-​    **NOT:** `i`
+​	NOT: `i`
 
 
 
@@ -82,7 +96,7 @@ Add and subtract as if `i` is a variable
 
 `Y` is imaginary, `X` is real
 
-**Distance formula:** $\sqrt{(x_1 - x_2)^2 + (y_1 - y_2)^2}$
+Distance formula: $\sqrt{(x_1 - x_2)^2 + (y_1 - y_2)^2}$
 
 
 
@@ -92,7 +106,25 @@ Add and subtract as if `i` is a variable
 
 `Y` is imaginary, `X` is real
 
-**Midpoint formula:** $\frac{\left(x_{1}+x_{2}\right)}{2}+\frac{\left(y_{1}+y_{2}\right)}{2}$
+Midpoint formula: $(\frac{\left(x_{1}+x_{2}\right)}{2},\frac{\left(y_{1}+y_{2}\right)}{2})$
 
 
+
+### Multiply complex numbers
+
+Multiply as if `i` is a variable, box method or FOIL
+
+
+
+### Complex number conjugates
+
+Conjugates:
+
+​	$(7-5i) = (7+5i)$
+
+​	$(7+5i) = (7-5i)$
+
+
+
+Difference of Squares: $(a+b)(a-b) = a^2-b^2$
 
