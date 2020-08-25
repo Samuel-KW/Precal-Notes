@@ -22,6 +22,12 @@ $a+bi$
 
 
 
+$Re(z) = a$
+
+$Im(z) = b$
+
+
+
 $i^1 = i$
 
 $i^2 = -1$
@@ -135,6 +141,22 @@ Multiply equation by the complex conjugate of the denominator
 ​	 $\frac{6+3i}{7-5i}\cdot\frac{7+5i}{7+5i}=\frac{42+30i+21i-15}{49+25}=\frac{27+51i}{74}$
 
 ​	==$=\frac{27}{74}+\frac{51}{74}i$==
+
+
+
+### Angle of complex numbers
+
+
+
+### Argument
+
+$φ(argument) = \arctan\left(\frac{b}{a}\right) = \arctan\left(\frac{a}{r}\right)$ 
+
+
+
+### Modulus
+
+$r (modulus) = |z_1| = \sqrt{a^2+b^2}$
 
 
 
