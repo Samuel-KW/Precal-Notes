@@ -12,9 +12,9 @@ Distance: $\sqrt{(x_1 - x_2)^2 + (y_1 - y_2)^2}$
 
 Midpoint: $(\frac{\left(x_{1}+x_{2}\right)}{2},\frac{\left(y_{1}+y_{2}\right)}{2})$
 
-Difference of Squares: $(a+b)(a-b) = a^2-b^2$
+Difference of Squares: $(a+b)(a-b) = (a)^2 - (b)^2$
 
-
+​	==NOTE: Make sure the complex number is in $a + bi$ form AND include $i$ in the value of $b$.==
 
 ## Imaginary Numbers 
 
@@ -98,7 +98,7 @@ Distance formula: $\sqrt{(x_1 - x_2)^2 + (y_1 - y_2)^2}$
 
 Midpoint formula: $(\frac{\left(x_{1}+x_{2}\right)}{2},\frac{\left(y_{1}+y_{2}\right)}{2})$
 
-
+Output: $a + bi$
 
 ### Multiply complex numbers
 
@@ -108,11 +108,19 @@ Multiply as if `i` is a variable, box method or FOIL
 
 ### Complex number conjugates
 
+Find the complex conjugate of $\bar{z_1}$ of $\bar{z_1} = 7 - 5i$
+
 Conjugates:
 
-​	$\bar{z_1} = ( 7 - 5i )$
+​	$\bar{z_1} = 7 - 5i$
 
-​	$z_1 = ( 7 + 5i )$
+​	$z_1 = 7 + 5i$
+
+
+
+​	$\bar{z_2} = 5i + 5$
+
+​	$z_2 = -5i + 5$
 
 Difference of Squares: $(a+b)(a-b) = a^2-b^2$
 
@@ -128,3 +136,14 @@ Multiply equation by the complex conjugate of the denominator
 
 ​	==$=\frac{27}{74}+\frac{51}{74}i$==
 
+
+
+## Recursive Functions
+
+Complete the recursive formula of the geometric sequence
+
+$-0.3, 0.9, -2.7, 8.1...$
+
+$b(1) = $ `-0.3`
+
+$b(n) = b (n - 1) *$`-3`
