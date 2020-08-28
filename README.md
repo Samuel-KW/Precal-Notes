@@ -42,13 +42,13 @@ $i^4 = 1$
 
 Divide the exponent by four, the decimal corresponds to the value of `i`
 
-$0.25 = i$
+$*.25 = i$
 
-$0.50=-1$
+$*.50=-1$
 
-$0.75 = 1$
+$*.75 = -i$
 
-$1 = -i$
+$int = 1$
 
 
 
@@ -148,9 +148,13 @@ Multiply equation by the complex conjugate of the denominator
 
 
 
-### Argument
+### Angle (Argument)
+
+$\theta=\arctan\left(\frac{b}{a}\right)$
 
 $φ(argument) = \arctan\left(\frac{b}{a}\right) = \arctan\left(\frac{a}{r}\right)$ 
+
+==Make sure to find the correct angle as there are multiple==
 
 
 
