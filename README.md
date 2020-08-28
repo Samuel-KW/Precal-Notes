@@ -4,6 +4,26 @@
 
 
 
+## Pi ($\pi$)
+
+Radians = $2\pi$
+
+Degrees = $360°$ 
+
+
+
+ $Degrees * \frac{\pi}{180} = Radians$
+
+ $Radians * \frac{180}{\pi} = Degrees $
+
+
+
+$\pi=180°$
+
+$2\pi=360°$
+
+
+
 ## Equations
 
 
