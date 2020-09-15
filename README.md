@@ -26,8 +26,6 @@ $2\pi=360°$
 
 ## Equations
 
-
-
 Distance: $\sqrt{(x_1 - x_2)^2 + (y_1 - y_2)^2}$
 
 Midpoint: $(\frac{\left(x_{1}+x_{2}\right)}{2},\frac{\left(y_{1}+y_{2}\right)}{2})$
@@ -35,6 +33,8 @@ Midpoint: $(\frac{\left(x_{1}+x_{2}\right)}{2},\frac{\left(y_{1}+y_{2}\right)}{2
 Difference of Squares: $(a+b)(a-b) = (a)^2 - (b)^2$
 
 ​	==NOTE: Make sure the complex number is in $a + bi$ form AND include $i$ in the value of $b$.==
+
+
 
 ## Imaginary Numbers 
 
