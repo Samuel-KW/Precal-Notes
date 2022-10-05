@@ -32,7 +32,7 @@ Midpoint: $(\frac{\left(x_{1}+x_{2}\right)}{2},\frac{\left(y_{1}+y_{2}\right)}{2
 
 Difference of Squares: $(a+b)(a-b) = (a)^2 - (b)^2$
 
-​	==NOTE: Make sure the complex number is in $a + bi$ form AND include $i$ in the value of $b$.==
+​	NOTE: Make sure the complex number is in $a + bi$ form AND include $i$ in the value of $b$.
 
 
 
