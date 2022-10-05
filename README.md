@@ -190,6 +190,6 @@ Complete the recursive formula of the geometric sequence
 
 $-0.3, 0.9, -2.7, 8.1...$
 
-$b(1) = $ `-0.3`
+$b(1) = -0.3$ 
 
-$b(n) = b (n - 1) *$ `-3`
+$b(n) = b (n - 1) * -3$ 
