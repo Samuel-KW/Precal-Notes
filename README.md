@@ -4,7 +4,7 @@
 
 
 
-## Pi ($\pi$)
+## Pi
 
 Radians = $2\pi$
 
@@ -160,7 +160,7 @@ Multiply equation by the complex conjugate of the denominator
 
 ​	 $\frac{6+3i}{7-5i}\cdot\frac{7+5i}{7+5i}=\frac{42+30i+21i-15}{49+25}=\frac{27+51i}{74}$
 
-​	==$=\frac{27}{74}+\frac{51}{74}i$==
+​  $=\frac{27}{74}+\frac{51}{74}i$
 
 
 
